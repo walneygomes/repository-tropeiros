@@ -1,0 +1,9 @@
+id_regiao,nome,id_estado,nome_1,id_regiao_1
+1,nordeste,1,paraiba,1
+1,nordeste,2,pernambuco,1
+1,nordeste,3,bahia,1
+1,nordeste,4,ceara,1
+2,sudeste,5,rio de janeiro,2
+2,sudeste,6,são paulo,2
+2,sudeste,7,minas gerais,2
+3,sul,8,rio grande do sul,3

@@ -1,0 +1,11 @@
+id_produto,nome,ano,preco,id_chamado
+1,Criação de site,2014,4000,1
+2,gestão de mídias sociais,2016,"23,2",3
+3,design gráfico,2018,300,3
+4,adwords,2018,4000,4
+5,google cloud,2018,"23,2",4
+6,aws,2018,"1164,26",10
+7,frameworks,2018,"1025,86",10
+8,gestao de banco de dados,2019,"887,46",3
+9,office,2019,"749,06",2
+10,bitdefender,2019,"610,66",2
